@@ -1,1 +1,14 @@
 # firstwebsite
+<HEAD>
+<TITLE>
+ ::MY FIRST WEBSITE::
+ </TITLE>
+ <HEAD>
+ <BODY>
+ <CENTER>
+ <H1> MY WEBSITE </H1>
+ <P> HI THERE! MY NAME IS PRITHA AND I AM A STUDENT.
+ </P>
+ </CENTER>
+ </BODY>
+ </HTML>
